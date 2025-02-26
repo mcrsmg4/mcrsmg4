@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mcrsmg4, a austic British programmer, working in Batch, you also might know as the person that made osutitanicmac
+- 👋 Hi, I’m @mcrsmg4, a austic British programmer, working in Batch, you also might know me as the person that made/maintained the osutitanicmac project
 - 👀 I’m interested in, SMG4, Tech, Forza, Memes, W&G
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on batch projects
